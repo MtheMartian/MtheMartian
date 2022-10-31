@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [One Piece Realm](https://oprealm.herokuapp.com/)
 - Working one something new! Not sure what to call it yet :P
+- Future projects on the way!
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 

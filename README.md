@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marvin Altidor</h1>
+<h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">Enlarging my brain everyday!</h3>
 
 - 🔭 I’m currently working on [One Piece Realm](https://oprealm.herokuapp.com/)

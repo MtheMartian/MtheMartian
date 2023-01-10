@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">Enlarging my brain every day!</h3>
 
-- 🔭 I’m currently working on [One Piece Realm](https://oprealm.herokuapp.com/)
-- Working on gaming collection website! Not sure what to call it yet :P
+- 🔭 First website [One Piece Realm](https://oprealm.herokuapp.com/)
+- Working on gaming collection website!
 - Future projects on the way!
 
 - 📫 How to reach me **marvin.altidor@outlook.com**

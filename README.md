@@ -2,7 +2,7 @@
 <h3 align="center">Enlarging my brain every day!</h3>
 
 - 🔭 First website [One Piece Realm](https://oprealm.herokuapp.com/)
-- Working on gaming collection website!
+- Working on a game collection website!
 - Finance website soonish!
 - :)
 

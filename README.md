@@ -3,7 +3,7 @@
 
 - 🔭 First website [One Piece Realm](https://oprealm.herokuapp.com/)
 - Working on a game collection website!
-- Finance website soonish!
+- Finances website soonish!
 - :)
 
 - 📫 How to reach me **marvin.altidor@outlook.com**

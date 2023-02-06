@@ -5,6 +5,7 @@
 - Working on a game collection website!
 - Finances website soonish!
 - Water is great!
+- DotNet Core is actually good backend!
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 

@@ -2,7 +2,7 @@
 <h3 align="center">Enlarging my brain every day!</h3>
 
 - First website [One Piece Realm](https://oprealm.herokuapp.com/)
-- GameStar - Work in progress!
+- GameStar (Game search) - Work in progress!
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 

@@ -3,7 +3,7 @@
 
 - First website [One Piece Realm](https://oprealm.herokuapp.com/)
 - GameStar (Game search) - Work in progress!
-- Finance Website next!
+- Finances calculator Website next!
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 

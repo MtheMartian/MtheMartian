@@ -5,6 +5,7 @@
 - GameStar - Work in progress!
 - Finances calculator soon!
 - My profile website soon!
+- Leetcode grind!
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 

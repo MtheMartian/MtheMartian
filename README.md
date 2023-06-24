@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">Enlarging my brain every day!</h3>
 
-<h3>Web developper (Full Stack)<h3>
+<h3>Web developper<h3>
 
 - Personal Website (Portfolio)... in progress.
 

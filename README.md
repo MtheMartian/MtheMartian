@@ -3,7 +3,7 @@
 
 <h3>Web developper<h3>
 
-- Personal Website (Portfolio)... in progress.
+- Personal Website (Portfolio)... work in progress.
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 

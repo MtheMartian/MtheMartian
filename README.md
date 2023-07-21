@@ -3,7 +3,7 @@
 
 <h2>Web Developer</h2>
 
-- 👨‍💻 Personal Website <a href="www.marvintm.com" target="_blank">marvintm.com</a>
+- 👨‍💻 Personal Website <a href="http://www.marvintm.com" target="_blank">marvintm.com</a>
 
 - 📫 How to reach me **marvin.altidor@outlook.com**
 
